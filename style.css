@@ -92,7 +92,7 @@ h1, h2, h3, h4 {
 .bio-text h4 {
   margin-top: 0;
   font-weight: normal;
-  color: #ccccff;
+  color: #ddd33d;
 }
 
 /* =========================
@@ -127,7 +127,7 @@ h1, h2, h3, h4 {
 
 .reflection p {
   font-size: 0.95em;
-  color: #dddddd;
+  color: #ddd33d;
 }
 
 /* =========================
@@ -162,7 +162,7 @@ h1, h2, h3, h4 {
 footer {
   text-align: center;
   font-size: 0.85em;
-  color: #cccccc;
+  color: #ddd33d;
 }
 
 /* =========================
